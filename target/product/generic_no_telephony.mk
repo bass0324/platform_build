@@ -22,8 +22,8 @@ PRODUCT_PACKAGES := \
 	AudioFX \
     Bluetooth \
     Camera2 \
+	Eleven \
     Gallery2 \
-    Eleven \
 	LockClock \
     OneTimeInitializer \
     Provision \
