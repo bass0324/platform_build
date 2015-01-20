@@ -19,11 +19,12 @@
 
 PRODUCT_PACKAGES := \
 	AdAway \
+	AudioFX \
     Bluetooth \
     Camera2 \
     Gallery2 \
-    Music \
-    MusicFX \
+    Eleven \
+	LockClock \
     OneTimeInitializer \
     Provision \
 	ScreenRecorder \
