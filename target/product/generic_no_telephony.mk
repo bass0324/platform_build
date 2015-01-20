@@ -24,7 +24,6 @@ PRODUCT_PACKAGES := \
     Camera2 \
 	Eleven \
     Gallery2 \
-	LockClock \
     OneTimeInitializer \
     Provision \
 	ScreenRecorder \
