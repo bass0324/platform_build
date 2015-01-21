@@ -40,7 +40,6 @@ PRODUCT_PACKAGES += \
     Keyguard \
     LatinIME \
     Launcher2 \
-	LockClock \
     ManagedProvisioning \
     PicoTts \
     PacProcessor \
